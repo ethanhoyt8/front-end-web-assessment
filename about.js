@@ -28,4 +28,4 @@ let batDuckMan = document.querySelector('#duckbat')
 		alert("That's awesome!")
 	}
 
-	myForm.addEventListener('submit', newThing)
+	form.addEventListener('submit', newThing)
